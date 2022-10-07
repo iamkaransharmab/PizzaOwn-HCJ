@@ -10,7 +10,7 @@ Check out the live site :https://pizzaown-hcj01-cmxsxt77b-iamkaransharmab.vercel
 
 
 
-Screens- Have a Look :clapper:
+:clapper:Screens- Have a Look 
 :camera_flash:
 ![Pizza-Own](https://user-images.githubusercontent.com/61596570/194649300-c33a25c3-6f90-4d1b-a93b-113347af0a08.png)
 :camera_flash:
@@ -28,6 +28,8 @@ Screens- Have a Look :clapper:
 </div>
 
 
-You can use or fork this Project for Education-Purpose 🤗
+You can use or fork this Project for Education-Purpose 🤗 
+
 Thanks For Visiting and Give a Feedback By :star:
+GIT : https://github.com/iamkaransharmab
 
