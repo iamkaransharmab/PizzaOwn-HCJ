@@ -1,10 +1,16 @@
 # PizzaOWn
 
+Pizz-Own  is a clone of Pizza-Hut's web-application. Built on MVC architecture this fun application uses HTMLS, CSS, Javascript and as technology-stack and  for real-time updates. No Nodejs or React js framework has been used.
+
+Choose from large varieties of pizzas or side-dishes, beverages, desserts (menus exactly collected from domino's website). Add to your cart and check out your order. After order confirmation from Store-admin, realtime will be received on the client app.
+And the +feature is it that, You can customize your own falvoured Pizza by your own choosing integrant :pizza: :yum: :heart_eyes: 
+
+Check out the live site :https://pizzaown-hcj01-cmxsxt77b-iamkaransharmab.vercel.app/
 
 
 
 
-
+Screens- Have a Look 
 
 
 ![Pizza-Own](https://user-images.githubusercontent.com/61596570/194649300-c33a25c3-6f90-4d1b-a93b-113347af0a08.png)
