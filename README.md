@@ -30,6 +30,7 @@ Check out the live site :https://pizzaown-hcj01-cmxsxt77b-iamkaransharmab.vercel
 
 You can use or fork this Project for Education-Purpose 🤗 
 
-Thanks For Visiting and Give a Feedback By :star:
+Thanks For Visiting and Give a Feedback By :star: 
+
 GIT : https://github.com/iamkaransharmab
 
